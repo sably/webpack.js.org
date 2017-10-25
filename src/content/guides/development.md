@@ -90,7 +90,7 @@ Now open the resulting `index.html` file in your browser. Click the button and l
     at HTMLButtonElement.printMe (print.js:2)
  ```
 
-We can see that the error also contains a reference to the file (`print.js`) and line number (2) where the error occurred. This is great, because now we know exactly where to look in order to fix the issue.
+We can see that the error also contains a reference to the file (`print.js`) and line number (2) where the error occurred. This is great, because now we know exactly where to look in order to fix the issue.also look at the size of app.bundle.js (1.44mb this is for development mode!)
 
 
 ## Choosing a Development Tool
